@@ -17,7 +17,7 @@ This project analyzes global video game sales data using Power BI. It explores s
 
 ## Files in this Repository
 - `/Dashboard.pbix/` - Power BI project file
-- `/vgsales.csv/` - Dataset used (or sample if original is restricted)
+- `/vgsales.csv/` - Dataset used
 - `/Dashboard.png/` - Screenshots of the dashboard
 
 ## Dataset Source
