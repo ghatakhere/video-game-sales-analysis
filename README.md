@@ -3,7 +3,7 @@
 This project analyzes global video game sales data using Power BI. It explores sales trends across regions, platforms, and genres, identifying key insights through interactive dashboards.
 
 ## Dashboard Preview
-![Dashboard Preview](assets/dashboard-screenshots.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Key Features
 - Total and regional sales by year
@@ -16,9 +16,9 @@ This project analyzes global video game sales data using Power BI. It explores s
 - CSV dataset (Kaggle)
 
 ## Files in this Repository
-- `/pbix/` - Power BI project file
-- `/data/` - Dataset used (or sample if original is restricted)
-- `/assets/` - Screenshots of the dashboard
+- `/Dashboard.pbix/` - Power BI project file
+- `/vgsales.csv/` - Dataset used (or sample if original is restricted)
+- `/Dashboard.png/` - Screenshots of the dashboard
 
 ## Dataset Source
 Kaggle: [Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
